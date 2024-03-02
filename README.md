@@ -1,1 +1,1 @@
-# Sample GitHub repository
+# Practice repository
