@@ -1,1 +1,1 @@
-# Sample Repo
+# Sample Repository
